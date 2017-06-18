@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/gingeraebi/.android/build-cache/747751a8e6f1e18897d069ae689d012e7e25bb8f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="71e3378bc477f9f43528f7619dc9d8ad1a18c57d">
+        <dex dex="/Users/gingeraebi/AndroidStudioProjects/Study3/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ae8a427310b74d304384e4a75e9ba248327781fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gingeraebi/.gradle/caches/modules-2/files-2.1/io.realm/realm-annotations/3.3.2/3e2543dc63f1a812c76c7986a6bd02287f38af91/realm-annotations-3.3.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3e2543dc63f1a812c76c7986a6bd02287f38af91">
+        <dex dex="/Users/gingeraebi/AndroidStudioProjects/Study3/app/build/intermediates/transforms/dex/debug/folders/1000/10/realm-annotations-3.3.2_3ef7e2d1db198269a92e739630602775426b4683/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gingeraebi/AndroidStudioProjects/Study3/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/gingeraebi/AndroidStudioProjects/Study3/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f3f26a90a2966ad650c24caf845c740728293e07/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gingeraebi/AndroidStudioProjects/Study3/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8abca024a0255f6f76668017191b3a89aa30fdcb">
+        <dex dex="/Users/gingeraebi/AndroidStudioProjects/Study3/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e9ae5df806aa231377d8aae1669341aea2b83291/classes.dex" />
+    </item>
+
+</items>
