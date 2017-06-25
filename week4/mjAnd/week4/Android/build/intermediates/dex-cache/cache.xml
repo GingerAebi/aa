@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/gingeraebi/.android/build-cache/5d82cedc845a8a6c2163dce552142c07b93706c4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/gingeraebi/AndroidStudioProjects/Study2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_808561dc83a72fc273be271a3cfc194c89aaa55b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gingeraebi/.android/build-cache/bea0ca5b5aa08523b16ff81a534e18d728139ce0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/gingeraebi/AndroidStudioProjects/Study2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_886215db7584ed7aab54bc1767d840a7f129cfa3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gingeraebi/AndroidStudioProjects/Study2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a1bbb5bca3c0413fdcfaf2ee34d63dfa92370e39">
+        <dex dex="/Users/gingeraebi/AndroidStudioProjects/Study2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_691d2110e2b365676854e093d65b2886776855d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gingeraebi/.android/build-cache/28f9dabe7b2d7638b1d6be270ac6f1539469309e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="36bd772291bbb9201113b4988472e3dd95647bf2">
+        <dex dex="/Users/gingeraebi/AndroidStudioProjects/Study2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b356acd38ded670c71eeea8a9ecf1e2a9da2b0ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gingeraebi/.android/build-cache/91843afe3f72ec6dc0a663655d93d288a2dfd5c8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e0891a69f24747a6988698a57fd55825b31251fa">
+        <dex dex="/Users/gingeraebi/AndroidStudioProjects/Study2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_32e8479cf8fd51e04a2e0b37c41c115dd0cabc7d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gingeraebi/.gradle/caches/modules-2/files-2.1/com.squareup/otto/1.3.7/69d90fd7fb70e54746e26c10454c220e40a775ce/otto-1.3.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="69d90fd7fb70e54746e26c10454c220e40a775ce">
+        <dex dex="/Users/gingeraebi/AndroidStudioProjects/Study2/app/build/intermediates/transforms/dex/debug/folders/1000/10/otto-1.3.7_28205d59be2118dcafef84e2ca31d967520eb460/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gingeraebi/AndroidStudioProjects/Study2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/gingeraebi/AndroidStudioProjects/Study2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e014612ef790f60d731dd6da44c6959050f0d137/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gingeraebi/.android/build-cache/4074188a281d24c6c25b431d95403a53246edce4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/gingeraebi/AndroidStudioProjects/Study2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_33c3169ef425934937768787e81417152626c120/classes.dex" />
+    </item>
+
+</items>
